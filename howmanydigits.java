@@ -1,19 +1,5 @@
 import java.util.Scanner;
 
-//public class howmanydigits {
-//    public static void main(String[] args) {
-//        Scanner sc = new Scanner(System.in);
-//
-//        ArrayList<Integer> inputs = new ArrayList<Integer>();
-//
-//        while (sc.hasNext()) {
-//            int n = sc.nextInt();
-//            inputs.add(n);
-//        }
-//        System.out.println(inputs);
-//    }
-//}
-
 public class howmanydigits {
 
     public static void main(String[] args) {
